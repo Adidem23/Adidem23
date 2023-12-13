@@ -2,11 +2,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="My GIF">
 </p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Ad-unscreen](https://github.com/Adidem23/Adidem23/assets/124609794/2699c98b-d8fa-4f91-b963-c1c89ce0b163)
-
+# Introduction : 
 <h2> I am 20 Years old unemployed individual currently in Third Year of Computer Engineering . I do not Know DSA and try to find Happiness in Web Developement and Blockchain Technology . I am underconfident and most useless organism you will find on Earth</h2> 
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://instagram.com/adidem23) 
