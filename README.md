@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="My GIF">
 </p>
 
-# Introduction : 
+# About Me: 
 <h2> I am 20 Years old unemployed individual currently in Third Year of Computer Engineering . I do not Know DSA and try to find Happiness in Web Developement and Blockchain Technology . I am underconfident and most useless organism you will find on Earth</h2> 
 
 ## 🌐 Socials:
