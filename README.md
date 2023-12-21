@@ -10,8 +10,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://linkedin.com/in/aditya-suryawanshi-945145235/) 
 [![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://twitter.com/SURYAWANSHIADI3)
 [![DockerHub](https://skillicons.dev/icons?i=docker&perline=3)](https://hub.docker.com/u/adidem23)  
-[![Quine](https://skillicons.dev/icons?i=qt&perline=3)](https://quine.sh/user/Adidem23) 
-[![Youtbe](https://skillicons.dev/icons?i=&perline=3)](https://www.youtube.com/channel/UCdRXbAEZOlpdoQfAasQ4dAQ) 
 
 # 💻 Tech Stack 
 
