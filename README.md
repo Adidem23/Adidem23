@@ -74,8 +74,3 @@
 <img src="https://github.com/Adidem23/Adidem23/assets/124609794/64405ce4-fc76-4ff8-893c-371e7927924a" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
 
 <img src="https://github.com/Adidem23/Adidem23/assets/124609794/d00ca479-8101-4093-8dde-7fa5103daa75" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
-
-![luchadortocat]()
-
-
-
