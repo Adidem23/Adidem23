@@ -70,7 +70,8 @@
 [![An image of @adidem23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adidem23)](https://holopin.io/@adidem23)
 
 # Octacat : 
-![octacat](https://github.com/Adidem23/Adidem23/assets/124609794/64405ce4-fc76-4ff8-893c-371e7927924a)
+
+<img src="https://github.com/Adidem23/Adidem23/assets/124609794/64405ce4-fc76-4ff8-893c-371e7927924a" style="margin:auto" width="200px" height="200px" alt="My GIF">
 
 
 
