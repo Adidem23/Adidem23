@@ -10,7 +10,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://linkedin.com/in/aditya-suryawanshi-945145235/) 
 [![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://twitter.com/SURYAWANSHIADI3)
 [![DockerHub](https://skillicons.dev/icons?i=docker&perline=3)](https://hub.docker.com/u/adidem23)  
-[![Hashnode](https://skillicons.dev/icons?i=hashnode&perline=3)](https://hub.docker.com/u/adidem23)  
+
 
 # 💻 Tech Stack 
 
