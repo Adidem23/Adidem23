@@ -51,7 +51,7 @@
 
 
 # 📊 GitHub Stats:
-![Github Adidem23](https://github-readme-stats.vercel.app/api?username=Adidem23&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![Adidem23's Stats](https://github-readme-stats.vercel.app/api?username=Adidem23&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
 ![Adidem Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adidem23&theme=dark&hide_border=false)
 
 
