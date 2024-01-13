@@ -71,8 +71,7 @@
 [![An image of @adidem23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adidem23)](https://holopin.io/@adidem23)
 
 # Octacats : 
-
-<img src="https://github.com/Adidem23/Adidem23/assets/124609794/64405ce4-fc76-4ff8-893c-371e7927924a" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
+<img src="https://github.com/Adidem23/Adidem23/assets/124609794/f07c954b-e444-403e-ad8e-eb584f60c4e5" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
 
 <img src="https://github.com/Adidem23/Adidem23/assets/124609794/20f01b59-ea69-4923-a775-233d238c8573" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
 
