@@ -81,7 +81,7 @@
 
 # Blogs : 
 
-<div>
+<div style="display:flex; flex-direction:row; ">
   <img src="https://github.com/Adidem23/Adidem23/assets/124609794/fcd59b88-1654-4a97-ac9d-3ee21825a76d" alt="Node Image" width="450px" height="200px"   />
   <h2>NodeJs UnEarthed</h2> 
   <a hreft="">Visit</a>
