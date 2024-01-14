@@ -80,11 +80,8 @@
 <img src="https://github.com/Adidem23/Adidem23/assets/124609794/5a65d4a6-2406-4ed0-9c6d-0d3d0e2111ee" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
 
 # Blogs : 
-
-<div style="display:flex; flex-direction:row; ">
-  <img src="https://github.com/Adidem23/Adidem23/assets/124609794/fcd59b88-1654-4a97-ac9d-3ee21825a76d" alt="Node Image" width="450px" height="200px"   />
-  <div>
-    <h2>NodeJs UnEarthed</h2> 
-  <a href="https://adidem.hashnode.dev/nodejs-unearthed-exploring-the-ecosystem">Visit</a>
-  </div>
-</div>
+<p align="left">
+<a href="https://sohamr.hashnode.dev/beginner-guide-to-deploying-micro-services-on-kubernetes" title="Beginner guide to deploying Micro-services on Kubernetes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684879002236/2a94e50f-df85-494c-9d94-0799010b906e.avif" alt="Beginner guide to deploying Micro-services on Kubernetes" width="250px" align="left" /></a>
+<a href="https://sohamr.hashnode.dev/beginner-guide-to-deploying-micro-services-on-kubernetes" title="Beginner guide to deploying Micro-services on Kubernetes"><strong>Beginner guide to deploying Micro-services on Kubernetes</strong></a>
+<div><strong>23 May 2023</strong> | <strong>Updated: 25 May 2023</strong></div>
+<br/> In today's fast-paced digital landscape, businesses are increasingly adopting microservices architecture to build scalable and resilient applications. Microservices offer a modular approach to application development, allowing different components to... </p> 
