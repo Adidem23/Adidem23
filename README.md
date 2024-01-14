@@ -81,12 +81,9 @@
 
 # Blogs : 
 
-<div>
-
-<div>
-  <p style="color:green" >NodeJs Unearthed</p> 
-</div>
-
-  
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px; border-radius: 5px;">
+  <h2>Subheading</h2>
+  <button style="background-color: #4CAF50; color: white; padding: 10px 15px; border: none; border-radius: 4px; cursor: pointer;">Click me</button>
+  <p>This is some paragraph content.</p>
 </div>
 
