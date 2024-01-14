@@ -81,7 +81,7 @@
 
 # Blogs : 
 <div>
-  <h2>NodeJs Unearted</h2>
+  <h2 style="color:slateblue;">NodeJs Unearted</h2>
   <a href="https://adidem.hashnode.dev/nodejs-unearthed-exploring-the-ecosystem#heading-single-threaded-system"><button>Visit</button></a>
 </div>
 
