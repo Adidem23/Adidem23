@@ -80,10 +80,3 @@
 <img src="https://github.com/Adidem23/Adidem23/assets/124609794/5a65d4a6-2406-4ed0-9c6d-0d3d0e2111ee" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
 
 # Blogs : 
-
-<div style="border: 1px solid #ccc; padding: 15px; margin: 10px; border-radius: 5px;">
-  <h2>Subheading</h2>
-  <button style="background-color: #4CAF50; color: white; padding: 10px 15px; border: none; border-radius: 4px; cursor: pointer;">Click me</button>
-  <p>This is some paragraph content.</p>
-</div>
-
