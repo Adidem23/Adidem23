@@ -82,10 +82,5 @@
 # Blogs : 
 
 <div>
-  <img src="https://github.com/Adidem23/Adidem23/assets/124609794/910e054c-6b70-47e9-b803-17167c8df20c" alt="Node Image" width="200px" height="200px"   />
+  <img src="https://github.com/Adidem23/Adidem23/assets/124609794/fcd59b88-1654-4a97-ac9d-3ee21825a76d" alt="Node Image" width="200px" height="200px"   />
 </div>
-
-
-
-
-
