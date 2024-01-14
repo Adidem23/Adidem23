@@ -80,18 +80,10 @@
 <img src="https://github.com/Adidem23/Adidem23/assets/124609794/5a65d4a6-2406-4ed0-9c6d-0d3d0e2111ee" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
 
 # Blogs : 
-<p align="left">
-<img src="https://github.com/Adidem23/Adidem23/assets/124609794/95857349-63d8-4ffa-9dba-bf64406b91ad" alt="NodeJs" width="200px"  align="left" />
-<strong>Node.js Unearthed: Exploring the Ecosystem</strong>
-<div>Created on : 14 January 2024</div>
-<div><a href="https://adidem.hashnode.dev/nodejs-unearthed-exploring-the-ecosystem">Visit Blog</a></div>
-<div>This Blog Contains Concepts of NodeJs such as EventLoop , Child Processes</div>
-</p> 
 
-<br />
 <p align="left">
 <img src="https://github.com/Adidem23/Adidem23/assets/124609794/95857349-63d8-4ffa-9dba-bf64406b91ad" alt="NodeJs" width="200px"  align="left" />
-<strong>Node.js Unearthed: Exploring the Ecosystem</strong>
+<div>Node.js Unearthed: Exploring the Ecosystem</div>
 <div>Created on : 14 January 2024</div>
 <div><a href="https://adidem.hashnode.dev/nodejs-unearthed-exploring-the-ecosystem">Visit Blog</a></div>
 <div>This Blog Contains Concepts of NodeJs such as EventLoop , Child Processes</div>
