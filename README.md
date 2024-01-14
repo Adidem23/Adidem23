@@ -84,6 +84,6 @@
 <a href="https://adidem.hashnode.dev/nodejs-unearthed-exploring-the-ecosystem">
 <img src="https://github.com/Adidem23/Adidem23/assets/124609794/95857349-63d8-4ffa-9dba-bf64406b91ad" alt="NodeJs" width="250px" align="left" />
 </a>
-<a href="https://adidem.hashnode.dev/nodejs-unearthed-exploring-the-ecosystem" title="Node.js Unearthed: Exploring the Ecosystem"><strong>Node.js Unearthed: Exploring the Ecosystem</strong></a>
+<a href="https://adidem.hashnode.dev/nodejs-unearthed-exploring-the-ecosystem"  style="text-decoration:none; list-style:none ; color:slateblue; " title="Node.js Unearthed: Exploring the Ecosystem"><strong>Node.js Unearthed: Exploring the Ecosystem</strong></a>
 <div><strong>14 January 2024</strong></div>
 <br/></p> 
