@@ -81,7 +81,7 @@
 
 # Blogs : 
 <p align="left">
-<img src="https://github.com/Adidem23/Adidem23/assets/124609794/4edd8dcf-982c-4ee4-beb9-a2eb04f9b2d6" alt="NodeJs" width="250px" height="150px"  align="left" />
+<img src="https://github.com/Adidem23/Adidem23/assets/124609794/4edd8dcf-982c-4ee4-beb9-a2eb04f9b2d6" alt="NodeJs" width="250px" height="130px"  align="left" />
 <div align="center">
 <h3>Node.js Unearthed: Exploring the Ecosystem</h3>
 <div>Created on : 14 January 2024</div>
@@ -91,13 +91,17 @@
 </p> 
 
 <br />
+<br />
 
 <p align="left">
-<img src="https://github.com/Adidem23/Adidem23/assets/124609794/20d5503a-1b1e-410a-9e76-9ae69f5b7087" alt="Ethereum" width="150px"  align="left" />
-<h3></h3>
-<div>Created on : </div>
+<img src="https://github.com/Adidem23/Adidem23/assets/124609794/4edd8dcf-982c-4ee4-beb9-a2eb04f9b2d6" alt="NodeJs" width="250px" height="150px"  align="left" />
+<div align="center">
+<h3>Node.js Unearthed: Exploring the Ecosystem</h3>
+<div>Created on : 14 January 2024</div>
 <div><a href="https://adidem.hashnode.dev/nodejs-unearthed-exploring-the-ecosystem">Visit Blog</a></div>
 <div>This Blog Contains Concepts of NodeJs such as EventLoop , Child Processes</div>
+</div>
 </p> 
+
 
 
