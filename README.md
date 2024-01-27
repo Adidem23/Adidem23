@@ -100,7 +100,7 @@
 <h3>Decoding the EVM: The Engine Powering Ethereum</h3>
 <div>Created on : 27 January 2024</div>
 <div><a href="https://adidem.hashnode.dev/decoding-the-evm-the-engine-powering-ethereum">Visit Blog</a></div>
-<div>This Blog Contains Concepts of NodeJs such as EventLoop , Child Processes</div>
+<div>This Blog Contains Concepts of EVM , EVM State and Merkle Trees</div>
 </div>
 </p> 
 
