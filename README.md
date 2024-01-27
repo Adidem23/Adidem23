@@ -81,7 +81,7 @@
 
 # Blogs : 
 <p align="left">
-<img src="https://github.com/Adidem23/Adidem23/assets/124609794/4edd8dcf-982c-4ee4-beb9-a2eb04f9b2d6" alt="NodeJs" width="200px"  align="left" />
+<img src="https://github.com/Adidem23/Adidem23/assets/124609794/4edd8dcf-982c-4ee4-beb9-a2eb04f9b2d6" alt="NodeJs" width="250px" height="100px"  align="left" />
 <div align="center">
 <h3>Node.js Unearthed: Exploring the Ecosystem</h3>
 <div>Created on : 14 January 2024</div>
