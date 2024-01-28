@@ -115,7 +115,7 @@
 <div align="center">
 <h3>From Tracktors To Speed Demons : Exploring Legacy of Lamborghini </h3>
 <div>Created on : 28 January 2024</div>
-<div><a href="">Visit Blog</a></div>
+<div><a href="https://adidem.hashnode.dev/from-tracktors-to-speed-demons-navigating-the-legacy-of-lamborghini-supercars">Visit Blog</a></div>
 <div>This Blog Contains Concepts of EVM , EVM State and Merkle Trees</div>
 </div>
 </p> 
