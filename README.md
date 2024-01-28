@@ -105,5 +105,15 @@
 </div>
 </p> 
 
+<p align="left">
+<img src="https://github.com/Adidem23/Adidem23/assets/124609794/6ea24c99-b865-4bb1-8c8f-8c0d0d37eed7" alt="NodeJs" width="250px" height="180px"  align="left" />
+<div align="center">
+<h3>Decoding the EVM: The Engine Powering Ethereum</h3>
+<div>Created on : 27 January 2024</div>
+<div><a href="https://adidem.hashnode.dev/decoding-the-evm-the-engine-powering-ethereum">Visit Blog</a></div>
+<div>This Blog Contains Concepts of EVM , EVM State and Merkle Trees</div>
+</div>
+</p> 
+
 
 
