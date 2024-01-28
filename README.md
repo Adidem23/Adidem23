@@ -113,7 +113,7 @@
 <p align="left">
 <img src="https://github.com/Adidem23/Adidem23/assets/124609794/6d3865c4-8a38-40c0-92dc-61a8ef0b470e" alt="NodeJs" width="250px" height="180px"  align="left" />
 <div align="center">
-<h3>From Tracktors To Speed Demons : Exploring Lamborghini </h3>
+<h3>From Tracktors To Speed Demons : Exploring Legacy of Lamborghini </h3>
 <div>Created on : 28 January 2024</div>
 <div><a href="https://adidem.hashnode.dev/decoding-the-evm-the-engine-powering-ethereum">Visit Blog</a></div>
 <div>This Blog Contains Concepts of EVM , EVM State and Merkle Trees</div>
