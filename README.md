@@ -109,7 +109,7 @@
 <br />
 
 <p align="left">
-<img src="" alt="NodeJs" width="250px" height="180px"  align="left" />
+<img src="https://github.com/Adidem23/Adidem23/assets/124609794/6d3865c4-8a38-40c0-92dc-61a8ef0b470e" alt="NodeJs" width="250px" height="180px"  align="left" />
 <div align="center">
 <h3>Decoding the EVM: The Engine Powering Ethereum</h3>
 <div>Created on : 28 January 2024</div>
