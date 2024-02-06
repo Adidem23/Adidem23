@@ -4,7 +4,7 @@
 
 
 # About Me: 
-<h2>As an individual passionate about blockchain and MERN stack development, I constantly push myself to explore new concepts and technologies. Despite encountering challenges and setbacks along the way, I remain determined to learn and grow from each experience</h2> 
+<h2> I am  passionate about blockchain and MERN stack development . I constantly push myself to explore new concepts and technologies . Despite encountering challenges and setbacks along the way </h2> 
 
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://instagram.com/adidem23) 
@@ -15,7 +15,7 @@
 
 # 💻 Tech Stack 
 
-# Frontend 🧑‍💻:
+# Frontend 🧑‍💻
 [![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
 [![Javascript](https://skillicons.dev/icons?i=javascript&perline=3)](https://skillicons.dev)
@@ -25,7 +25,7 @@
 [![Redux](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://skillicons.dev)
 
-# Backend 🤕 : 
+# Backend 🤕 
 [![NodeJs](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
 [![ExpressJs](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev)
 [![MongoDb](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)
@@ -33,11 +33,11 @@
 [![php](https://skillicons.dev/icons?i=php&perline=3)](https://skillicons.dev)
 [![postman](https://skillicons.dev/icons?i=postman&perline=3)](https://skillicons.dev)
 
-# Blockchain ⛓:
+# Blockchain ⛓
 [![solidity](https://skillicons.dev/icons?i=solidity&perline=3)](https://skillicons.dev)
 [![ipfs](https://skillicons.dev/icons?i=ipfs&perline=3)](https://skillicons.dev)
 
-# Others : 
+# Others 
 [![netlify](https://skillicons.dev/icons?i=netlify&perline=3)](https://skillicons.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel&perine=3)](https://skillicons.dev)
 [![c](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev)
@@ -51,7 +51,7 @@
 [![vscode](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![Adidem23's Stats](https://github-readme-stats.vercel.app/api?username=Adidem23&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
 ![Adidem23's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adidem23&theme=shades-of-purple&hide_border=false)
 
@@ -62,16 +62,16 @@
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# Quine Widgets:
+# Quine Widgets
 [![Adidem23's GitHub | Stats](https://stats.quine.sh/Adidem23/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adidem23)
 [![Adidem23's GitHub | Dependencies](https://stats.quine.sh/Adidem23/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adidem23)
 [![Adidem23's GitHub | Languages Over Time](https://stats.quine.sh/Adidem23/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adidem23)
 [![Adidem23's GitHub | Topics Over Time](https://stats.quine.sh/Adidem23/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adidem23)
 
-# HactoberFest Badges : 
+# HactoberFest Badges 
 [![An image of @adidem23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adidem23)](https://holopin.io/@adidem23)
 
-# Octacats : 
+# Octacats 
 <img src="https://github.com/Adidem23/Adidem23/assets/124609794/f07c954b-e444-403e-ad8e-eb584f60c4e5" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
 
 <img src="https://github.com/Adidem23/Adidem23/assets/124609794/20f01b59-ea69-4923-a775-233d238c8573" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
@@ -80,7 +80,7 @@
 
 <img src="https://github.com/Adidem23/Adidem23/assets/124609794/c93cd485-36d8-429f-b64a-ca03d9a1131b" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
 
-# Blogs : 
+# Blogs 
 <p align="left">
 <img src="https://github.com/Adidem23/Adidem23/assets/124609794/4edd8dcf-982c-4ee4-beb9-a2eb04f9b2d6" alt="NodeJs" width="250px" height="130px"  align="left" />
 <div align="center">
