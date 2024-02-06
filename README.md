@@ -4,7 +4,7 @@
 
 
 # About Me: 
-<h2> I am 20 Years old unemployed individual currently in Third Year of Computer Engineering . I do not Know DSA and try to find Happiness in Web Developement and Blockchain Technology . I am underconfident and most useless organism you will find on Earth</h2> 
+<h2>As an individual passionate about blockchain and MERN stack development, I constantly push myself to explore new concepts and technologies. Despite encountering challenges and setbacks along the way, I remain determined to learn and grow from each experience</h2> 
 
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://instagram.com/adidem23) 
