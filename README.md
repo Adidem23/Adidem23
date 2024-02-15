@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Adidem23/Adidem23/assets/124609794/b5367d0e-dc28-45c6-b24c-5f97c9731b66" alt="My GIF">
+  <img src="https://github.com/Adidem23/Adidem23/assets/124609794/0424f990-67a9-462f-ae50-4208813986fe" alt="My GIF">
 </p>
 
 
