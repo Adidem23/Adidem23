@@ -5,7 +5,7 @@
 
 # About Me 
 
-<h2> I am  passionate about blockchain and MERN stack development . I constantly push myself to explore new concepts and technologies . Despite encountering challenges and setbacks along the way </h2> 
+<h2>If You Want to See Computer Science Failure Here I am </h2> 
 
 # 🌐 Socials 
 
