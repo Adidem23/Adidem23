@@ -63,9 +63,3 @@
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-# Quine Widgets
-[![Adidem23's GitHub | Stats](https://stats.quine.sh/Adidem23/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adidem23)
-[![Adidem23's GitHub | Dependencies](https://stats.quine.sh/Adidem23/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adidem23)
-[![Adidem23's GitHub | Languages Over Time](https://stats.quine.sh/Adidem23/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adidem23)
-[![Adidem23's GitHub | Topics Over Time](https://stats.quine.sh/Adidem23/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adidem23)
