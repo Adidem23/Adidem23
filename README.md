@@ -63,3 +63,10 @@
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+# Octacats 
+<img src="https://github.com/Adidem23/Adidem23/assets/124609794/f07c954b-e444-403e-ad8e-eb584f60c4e5" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
+
+
+
+
