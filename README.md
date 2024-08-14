@@ -63,15 +63,3 @@
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-# Octacats 
-<img src="https://github.com/Adidem23/Adidem23/assets/124609794/f07c954b-e444-403e-ad8e-eb584f60c4e5" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
-
-<img src="https://github.com/Adidem23/Adidem23/assets/124609794/20f01b59-ea69-4923-a775-233d238c8573" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
-
-<img src="https://github.com/Adidem23/Adidem23/assets/124609794/aafef1d7-f453-4ded-8d21-a5c89649e9a1" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
-
-<img src="https://github.com/Adidem23/Adidem23/assets/124609794/c93cd485-36d8-429f-b64a-ca03d9a1131b" style="margin:auto; display:block ; " width="200px" height="200px" alt="My GIF">
-
-
-
