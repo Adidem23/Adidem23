@@ -8,6 +8,8 @@
 
 <h1> Kinda Explored TechStack 👻</h1>
 
+<div align="center">
+  
 [![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
 [![Javascript](https://skillicons.dev/icons?i=javascript&perline=3)](https://skillicons.dev)
@@ -41,6 +43,9 @@
 [![NPM](https://skillicons.dev/icons?i=npm&perline=3)](https://skillicons.dev)
 [![pnpm](https://skillicons.dev/icons?i=pnpm&perline=3)](https://skillicons.dev)
 [![py](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
+
+</div>
+
 
 # 📊 GitHub Stats
 ![Adidem23 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Adidem23)
