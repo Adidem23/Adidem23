@@ -13,7 +13,7 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://instagram.com/adidem23) 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://linkedin.com/in/aditya-suryawanshi-945145235/) 
 [![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://twitter.com/SURYAWANSHIADI3)
-<h2 align="center">Connect with Me </h2>
+<h2>Connect with Me </h2>
 
 </div>
 
