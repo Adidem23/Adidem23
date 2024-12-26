@@ -35,7 +35,7 @@
 [![tensorflow](https://skillicons.dev/icons?i=tensorflow&perline=3)](https://skillicons.dev)
 [![vscode](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
 [![fastapi](https://skillicons.dev/icons?i=fastapi&perline=3)](https://skillicons.dev)
-[![Jenkins](https://skillicons.dev/icons?i=Jenkins&perline=3)](https://skillicons.dev)
+[![jenkins](https://skillicons.dev/icons?i=jenkins&perline=3)](https://skillicons.dev)
 
 # 📊 GitHub Stats
 ![Adidem23 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Adidem23)
