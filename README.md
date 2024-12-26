@@ -45,15 +45,14 @@
 </div>
 
 
-## 🏆 GitHub Trophies
+<h1> 🏆 GitHub Trophies </h1>
+
 ![](https://github-profile-trophy.vercel.app/?username=Adidem23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<div align="center">
-<h1 align="center"> Connect With Me 🐒</h1>
+<h1> 📊 GitHub Stats </h1>
 
-[![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://instagram.com/adidem23) 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://linkedin.com/in/aditya-suryawanshi-945145235/) 
-[![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://twitter.com/SURYAWANSHIADI3)
+![Adidem23's Stats](https://github-readme-stats.vercel.app/api?username=Adidem23&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
+![Adidem23's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adidem23&theme=shades-of-purple&hide_border=false)
 
-</div>
+
