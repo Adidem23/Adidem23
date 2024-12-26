@@ -4,7 +4,7 @@
 
 <h1 align="center" style="font-family: 'Lucida Console', monospace;"> Hola Amigos 🐼 </h1>
 
-<h2 align="center"> I am passionate about Blockchain and MERN stack development . I constantly push myself to explore new concepts and technologies . Despite encountering challenges and setbacks along the way</h2> 
+<h2 align="center">I am Aditya Suryawanshi , Yet Another Computer Science Student From Pune trying to explore Web Developement and Blockhain Technology</h2> 
 
 # 🌐 Socials 
 
