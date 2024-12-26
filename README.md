@@ -10,7 +10,7 @@
 
 
 
-<h1> Kinda Explored TechStack 👻</h1>
+<h1> 👻 Kinda Explored TechStack </h1>
 
 <div align="center">
   
