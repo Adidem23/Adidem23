@@ -3,9 +3,8 @@
 </p>
 
 
-# About Me 
-
-<h2>I am passionate about Blockchain and MERN stack development . I constantly push myself to explore new concepts and technologies . Despite encountering challenges and setbacks along the way</h2> 
+<h2 align="center">About Me </h2>
+<h3> I am passionate about Blockchain and MERN stack development . I constantly push myself to explore new concepts and technologies . Despite encountering challenges and setbacks along the way</h3> 
 
 # 🌐 Socials 
 
