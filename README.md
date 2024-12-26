@@ -3,10 +3,10 @@
 </p>
 
 
-<h2 align="center"> Hola Amigos 👻</h2>
+<h1 align="center"> Hola Amigos 👻</h1>
 
 
-<h3 align="center"> I am passionate about Blockchain and MERN stack development . I constantly push myself to explore new concepts and technologies . Despite encountering challenges and setbacks along the way</h3> 
+<h2 align="center"> I am passionate about Blockchain and MERN stack development . I constantly push myself to explore new concepts and technologies . Despite encountering challenges and setbacks along the way</h2> 
 
 # 🌐 Socials 
 
