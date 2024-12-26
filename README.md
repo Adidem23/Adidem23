@@ -40,6 +40,7 @@
 [![aws](https://skillicons.dev/icons?i=aws&perline=3)](https://skillicons.dev)
 [![NPM](https://skillicons.dev/icons?i=npm&perline=3)](https://skillicons.dev)
 [![pnpm](https://skillicons.dev/icons?i=pnpm&perline=3)](https://skillicons.dev)
+[![py](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
 
 # 📊 GitHub Stats
 ![Adidem23 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Adidem23)
