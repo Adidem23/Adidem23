@@ -57,4 +57,8 @@
 ![Adidem23's Stats](https://github-readme-stats.vercel.app/api?username=Adidem23&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
 ![Adidem23's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adidem23&theme=shades-of-purple&hide_border=false)
 
+<br />
+
+<h4 align="center"> -CIAO- 🐒 </h4>
+
 
