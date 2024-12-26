@@ -14,14 +14,11 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://linkedin.com/in/aditya-suryawanshi-945145235/) 
 [![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://twitter.com/SURYAWANSHIADI3)
 
-<h3 align="center">Connect with Me </h3>
+<h2 align="center">Connect with Me </h2>
 
 </div>
 
 <h1> 👻 Kinda Explored TechStack </h1>
-
-<br />
-
 <div align="center">
   
 [![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
