@@ -1,6 +1,5 @@
 <p align="center">
-![image](https://github.com/user-attachments/assets/6da64218-e5c3-45b2-9656-4db8f7258b88)
-
+<img src="https://github.com/user-attachments/assets/6da64218-e5c3-45b2-9656-4db8f7258b88"  alt="Image is loading..."/>
 </p>
 
 
