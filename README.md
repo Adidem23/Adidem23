@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  alt="Image is loading..."/>
 </p>
 
-<h1 align="center" style="font-family: 'Lucida Console', monospace;"> Hola Amigos 👻</h1>
+<h1 align="center" style="font-family: 'Lucida Console', monospace;"> Hola Amigos 🐼 </h1>
 
 <h2 align="center"> I am passionate about Blockchain and MERN stack development . I constantly push myself to explore new concepts and technologies . Despite encountering challenges and setbacks along the way</h2> 
 
