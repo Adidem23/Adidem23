@@ -5,6 +5,7 @@
 <h1 align="center"> Hola Amigos 🐼 </h1>
 <h2 align="center"> I am Aditya Suryawanshi , Yet Another Computer Science Student Trying To Explore Web Developement and Blockchain Technology </h2> 
 
+
 <h2 align="center"> Things I Kinda Explored </h2>
 
 [![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
@@ -37,6 +38,7 @@
 [![fastapi](https://skillicons.dev/icons?i=fastapi&perline=3)](https://skillicons.dev)
 [![jenkins](https://skillicons.dev/icons?i=jenkins&perline=3)](https://skillicons.dev)
 [![aws](https://skillicons.dev/icons?i=aws&perline=3)](https://skillicons.dev)
+[![NPM](https://skillicons.dev/icons?i=npm&perline=3)](https://skillicons.dev)
 
 # 📊 GitHub Stats
 ![Adidem23 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Adidem23)
