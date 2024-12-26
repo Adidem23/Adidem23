@@ -45,10 +45,6 @@
 </div>
 
 
-![Adidem23's Stats](https://github-readme-stats.vercel.app/api?username=Adidem23&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
-![Adidem23's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adidem23&theme=shades-of-purple&hide_border=false)
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Adidem23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
