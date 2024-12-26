@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/154393e1-be66-4653-b9e1-7886de85000b" alt="My GIF">
+![image](https://github.com/user-attachments/assets/6da64218-e5c3-45b2-9656-4db8f7258b88)
+
 </p>
 
 
