@@ -6,7 +6,7 @@
 <h2 align="center"> I am Aditya Suryawanshi , Yet Another Computer Science Student Trying To Explore Web Developement and Blockchain Technology </h2> 
 
 
-<h2 align="center"> Things I Kinda Explored </h2>
+<h1> Kinda Explored TechStack 👻</h1>
 
 [![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
