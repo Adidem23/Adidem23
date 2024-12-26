@@ -15,7 +15,7 @@
 [![Javascript](https://skillicons.dev/icons?i=javascript&perline=3)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)
 [![Vite](https://skillicons.dev/icons?i=vite&perline=3)](https://skillicons.dev)
-[![NextJs](https://skillicons.dev/icons?i=nextjs&perline=3)](https://skillicons.dev) Arrange this according to alphabetically 
+[![NextJs](https://skillicons.dev/icons?i=nextjs&perline=3)](https://skillicons.dev)
 [![Redux](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://skillicons.dev)
 [![NodeJs](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
