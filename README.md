@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Hola Amigos 🐼 </h1>
-<h2 align="center"> I am Aditya Suryawanshi , Yet Another Computer Science Student Trying To Explore Web Developement and Blockchain Technology </h2> 
+<h2 align="center"> Ciao !! . I am Aditya Suryawanshi , Yet Another Computer Science Student Trying To Explore Web Developement and Blockchain Technology </h2> 
 
 
 <br />
