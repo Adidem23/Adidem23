@@ -68,4 +68,4 @@
 <h1> 📊 GitHub Stats </h1>
 
 ![Adidem23's Stats](https://github-readme-stats.vercel.app/api?username=Adidem23&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
-![Adidem23's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adidem23&theme=shades-of-purple&hide_border=false)
+[![Adidem23's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adidem23&theme=shades-of-purple&hide_border=false)](https://gh-readme-profile.vercel.app/api?username=Adidem23&theme=dark&hide=contributed&show=reviews,issues_closed&border_radius=3.7)
