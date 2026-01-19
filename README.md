@@ -58,9 +58,9 @@
 
 <br />
 
-<h1> 🏆 GitHub Trophies </h1>
+<!-- <h1> 🏆 GitHub Trophies </h1>
 
-![](https://github-profile-trophy.vercel.app/?username=Adidem23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Adidem23&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 
 <br />
