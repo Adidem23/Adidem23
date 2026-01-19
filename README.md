@@ -55,14 +55,6 @@
   
 </div>
 
-
-<br />
-
-<!-- <h1> 🏆 GitHub Trophies </h1>
-
-![](https://github-profile-trophy.vercel.app/?username=Adidem23&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
-
-
 <br />
 
 <h1> 📊 GitHub Stats </h1>
