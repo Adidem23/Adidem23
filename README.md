@@ -54,9 +54,3 @@
 [![ts](https://skillicons.dev/icons?i=ts&perline=3)](https://skillicons.dev)
   
 </div>
-
-<br />
-
-<h1> 📊 GitHub Stats </h1>
-
-![Adidem23's Stats](https://github-readme-stats.vercel.app/api?username=Adidem23&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
