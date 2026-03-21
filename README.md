@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Image is loading..."/>
+<img  src="https://github.com/user-attachments/assets/51c7362e-b0f8-4933-bcee-a5cda5017407" alt="Image is loading..."/>
 </p>
 
 <h1 align="center"> Hola Amigos </h1>
