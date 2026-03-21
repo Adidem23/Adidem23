@@ -3,4 +3,4 @@
 </p>
 
 <h1 align="center"> 𓆩 Aditya Suryawanshi 𓆪</h1>
-<h3 align="center">"Just a …  want to learn, build and  evolving"</h3>
+<h3 align="center">"Just a …  want to learn, build and  evolve"</h3>
