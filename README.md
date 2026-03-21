@@ -1,56 +1,66 @@
 <p align="center">
-<img  src="https://github.com/user-attachments/assets/51c7362e-b0f8-4933-bcee-a5cda5017407" alt="Image is loading..."/>
+  <img src="https://github.com/user-attachments/assets/51c7362e-b0f8-4933-bcee-a5cda5017407" alt="banner"/>
 </p>
 
-<h1 align="center"> Hola Amigos </h1>
-<h2 align="center"> Ciao !! . I am Aditya Suryawanshi , Yet Another Computer Science Student Trying To Explore Web Developement and Blockchain Technology </h2> 
+<h1 align="center">🌑 𓆩 Aditya Suryawanshi 𓆪</h1>
+<h3 align="center">"A wandering soul in the depths of code..."</h3>
 
+---
 
-<br />
+## 🕯️ About Me
 
-<div align="center">
+```txt
+A lone explorer in the vast caverns of technology...
+Seeking meaning through Web Development and Blockchain.
 
-[![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://instagram.com/adidem23) 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://linkedin.com/in/aditya-suryawanshi-945145235/) 
-[![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://twitter.com/SURYAWANSHIADI3)
-<h2> Connect with Me </h2> 
+Not a master. Not yet.
+Just a knight… learning, building, evolving.
+```
 
+---
 
-</div>
+## ⚔️ The Journey (Tech Stack)
 
-<h1> Kinda Explored TechStack </h1>
-<div align="center">
-  
-[![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
-[![Javascript](https://skillicons.dev/icons?i=javascript&perline=3)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)
-[![Vite](https://skillicons.dev/icons?i=vite&perline=3)](https://skillicons.dev)
-[![NextJs](https://skillicons.dev/icons?i=nextjs&perline=3)](https://skillicons.dev)
-[![Redux](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://skillicons.dev)
-[![NodeJs](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
-[![ExpressJs](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev)
-[![MongoDb](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)
-[![MySQl](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)
-[![postman](https://skillicons.dev/icons?i=postman&perline=3)](https://skillicons.dev)
-[![solidity](https://skillicons.dev/icons?i=solidity&perline=3)](https://skillicons.dev)
-[![ipfs](https://skillicons.dev/icons?i=ipfs&perline=3)](https://skillicons.dev)
-[![netlify](https://skillicons.dev/icons?i=netlify&perline=3)](https://skillicons.dev)
-[![Vercel](https://skillicons.dev/icons?i=vercel&perine=3)](https://skillicons.dev)
-[![c](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev)
-[![java](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)
-[![docker](https://skillicons.dev/icons?i=docker&perline=3)](https://skillicons.dev)
-[![git](https://skillicons.dev/icons?i=git&perline=3)](https://skillicons.dev)
-[![github](https://skillicons.dev/icons?i=github&perline=3)](https://skillicons.dev)
-[![vscode](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
-[![fastapi](https://skillicons.dev/icons?i=fastapi&perline=3)](https://skillicons.dev)
-[![jenkins](https://skillicons.dev/icons?i=jenkins&perline=3)](https://skillicons.dev)
-[![aws](https://skillicons.dev/icons?i=aws&perline=3)](https://skillicons.dev)
-[![NPM](https://skillicons.dev/icons?i=npm&perline=3)](https://skillicons.dev)
-[![pnpm](https://skillicons.dev/icons?i=pnpm&perline=3)](https://skillicons.dev)
-[![py](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
-[![tailwind](https://skillicons.dev/icons?i=tailwind&perline=3)](https://skillicons.dev)
-[![ts](https://skillicons.dev/icons?i=ts&perline=3)](https://skillicons.dev)
-  
-</div>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,vite,redux" /><br/> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,fastapi" /><br/> <img src="https://skillicons.dev/icons?i=solidity,ipfs,aws,docker,jenkins" /><br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,ts,tailwind,python" />
+
+</p>
+
+---
+
+## 🌌 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/adidem23">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://linkedin.com/in/aditya-suryawanshi-945145235/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/SURYAWANSHIADI3">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
+---
+
+## 🕸️ Philosophy
+
+```txt
+In the silence of the abyss,
+code becomes clarity.
+
+In the chaos of bugs,
+growth reveals itself.
+
+Every commit…
+a step deeper into the unknown.
+```
+
+---
+
+<p align="center">
+  🌑 "The deeper you go, the more you become."
+</p>
+
